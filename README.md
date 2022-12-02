@@ -49,8 +49,8 @@ git clone https://github.com/termuxhackers-id/SARA && cd SARA && bash installter
 Now users can share their ransomware via the link
 
 ### Support Us
-Facebook [@termuxhackers.id](https://www.facebook.com/TamimHossain55)<br>
-Instagram [@termuxhackers.id](https://www.instagram.com/bd_games_hacker/)
+Facebook [@Tamim-Fuckers](https://www.facebook.com/TamimHossain55)<br>
+Instagram [@Tamim-Hijacker](https://www.instagram.com/bd_games_hacker/)
 
 ### Credit's
 Copyright © 2022 by [Tamim Fuckers](https://github.com/TamimFuckersTeam)
